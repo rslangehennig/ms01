@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: ms01
   version: 1.0.0
-  description: ms01 api for new release
+  description: ms01 api for new release at IBM TechXchange
   x-ibm-name: ms01
 paths:
   /policies/{id}:
